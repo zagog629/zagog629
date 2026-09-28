@@ -39,7 +39,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Git-de4c36?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-6ab53f?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-1794d9?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-1873b1?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNzAuOTEyIDk5LjMxN2E2LjIyIDYuMjIgMCAwIDAgNC45Ni0uMTlsMjAuNTg5LTkuOTA3YTYuMjUgNi4yNSAwIDAgMCAzLjU0LTUuNjMzVjE2LjQxM2E2LjI1IDYuMjUgMCAwIDAtMy41NC01LjYzMkw3NS44NzMuODc0YTYuMjMgNi4yMyAwIDAgMC03LjEwMyAxLjIxTDI5LjM1NCAzOC4wNCAxMi4xODcgMjUuMDFhNC4xNiA0LjE2IDAgMCAwLTUuMzE4LjIzNmwtNS41MDYgNS4wMDlhNC4xNyA0LjE3IDAgMCAwLS4wMDUgNi4xNjJMMTYuMjQ5IDUwIDEuMzU3IDYzLjU4M2E0LjE3IDQuMTcgMCAwIDAgLjAwNCA2LjE2Mmw1LjUwNyA1LjAxYTQuMTYgNC4xNiAwIDAgMCA1LjMxOC4yMzZsMTcuMTY4LTEzLjAzMkw2OC43NyA5Ny45MTdhNi4yIDYuMiAwIDAgMCAyLjE0MyAxLjRNNzUuMDE1IDI3LjMgNDUuMTEgNTBsMjkuOTA2IDIyLjcwMVoiIGZpbGw9IiNmZmYiIC8+PC9zdmc+" />
 <img src="https://img.shields.io/badge/JUnit5-25a162?style=for-the-badge&logo=junit5&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytest-009de0?style=for-the-badge&logo=pytest&logoColor=white" />
