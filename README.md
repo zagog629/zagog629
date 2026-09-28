@@ -10,7 +10,7 @@
   <a href="https://github.com/zagog629">
     <img src="https://img.shields.io/badge/GitHub-323131?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://example.com">
+  <a href="https://zagog629.github.io/zagog629/">
     <img src="https://img.shields.io/badge/Website-663096?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 </p>
