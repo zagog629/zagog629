@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm <a href="https://www.example.com">Zach</a>! 👋<img align="right" src="https://komarev.com/ghpvc/?username=zagog629&style=flat-square&color=181818" alt="Profile views"/></h1>
+<h1 align="left">Hey there, I'm <a href="https://zagog629.github.io/zagog629/">Zach</a>! 👋<img align="right" src="https://komarev.com/ghpvc/?username=zagog629&style=flat-square&color=181818" alt="Profile views"/></h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zachary-gogluicci/">
